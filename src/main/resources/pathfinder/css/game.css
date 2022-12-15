@@ -1,0 +1,16 @@
+* {
+    -default-text-color: rgba(255,255,255,0.6);
+    -important-text-color: rgba(255,255,255,0.87);
+    -default-text-color-dark: rgba(0,0,0,0.6);
+    -important-text-color-dark: rgba(0,0,0,0.87);
+
+    -element-background-color: rgba(255, 255, 255, 0.06);
+    -element-background-color-hover: rgba(255, 255, 255, 0.2);
+    -element-background-color-pressed: rgba(0,0,0, 0.2);
+
+    -background-color-dark: #212121;
+    -default-font-family: "Roboto", "Arial", sans-serif;
+
+    -fx-font-family: -default-font-family;
+    -fx-text-fill: -default-text-color;
+}
