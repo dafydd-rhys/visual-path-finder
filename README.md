@@ -1,5 +1,5 @@
 # visual-path-finder
-If you find any issues please post them in the issues section, also star this repository if you like the application - download [here](https://github.com/Stryzhh/visual-path-finder/releases).
+If you find any issues please post them in the issues section, also star this repository if you like the application - download [here](https://github.com/dafydd-rhys/visual-path-finder/releases).
 
 ## Overview
 This application visually demonstrates the most efficient path from a starting node to a finishing node, navigating around any obstacles and passing through any intermediary nodes created by the user.
